@@ -123,7 +123,7 @@ This approach demonstrates how statistical modeling can be applied to cybersecur
 
 ## 8. Reproducibility Instructions
 
-[Server Log File](https://github.com/mkhutsishvili25-coder/aimlFin2026_m_khutsishvili25/blob/main/task_3/m_khutsishvili_server.log)
+[Server Log File](https://github.com/mkhutsishvili25-coder/aimlFin2026_m_khutsishvili25/task_3/m_khutsishvili_server.log)
 
 
 
